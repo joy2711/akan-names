@@ -1,23 +1,16 @@
-# {AKAN NAMES}
-#### {Akan names are derived from the Ghanian culture where babies were named after the days of the week they were born. Here, you can know your Akana names by just filling out the form below.}, {14th February 2020}
+# AKAN NAMES
+#### Akan names are derived from the Ghanian culture where babies were named after the days of the week they were born. Here, you can know your Akana names by just filling out the form below., 14th February 2020
 #### By **{Joy Anne Wairirmu Kamau}**
 ## Description
-{KNow the name you would have gotten if you were born in Ghana by filling out the form below }
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+KNow the name you would have gotten if you were born in Ghana by filling out the form below 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. 
 ## Technologies Used
 I used HTML, CSS, and JAVASCRIPT.
 ## Support and contact details
-{You can reach me through; email:@laishakamau9@gmail.com}
+You can reach me through; email:@laishakamau9@gmail.com
 ### License
-*{MIT License
+*MIT License
 
 Copyright (c) [2020] [Joy Anne Wairimu Kamau]
 
