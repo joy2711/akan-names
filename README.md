@@ -4,18 +4,10 @@
 #### By **Joy Anne Wairimu Kamau**
 ## Description
 WHen you input your birth information, you get a chance to know your Akan name
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-## Known Bugs
 ## Technologies Used
 To create this website, i used HTML,CSS and JAVASCRIPT.
 ## Support and contact detaILS
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright 
 MIT License
 
